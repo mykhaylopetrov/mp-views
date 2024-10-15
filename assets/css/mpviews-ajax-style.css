@@ -1,8 +1,14 @@
+.mpviews__counter {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
 .mpviews-counter__body {
 	display: flex;
 	align-items: center;
 	gap: 5px;
 }
+
 .mpviews-counter__icon {
 	width: 20px;
 	height: 20px;
